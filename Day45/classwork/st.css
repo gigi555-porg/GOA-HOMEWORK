@@ -1,0 +1,7 @@
+.content{
+    margin: 20px;
+    border: 2px solid red;
+    padding: 10px;
+    content: "This is a Content div";
+    background-color: brown;
+}

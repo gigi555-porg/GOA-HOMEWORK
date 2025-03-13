@@ -1,0 +1,9 @@
+div{
+    margin-left: 200px;
+    border: 5px solid rgb(red, green, blue);
+    padding: 10px;
+    background-color: rgb(226, 12, 12);
+    width: 100px;
+    height: 50px;
+
+}
